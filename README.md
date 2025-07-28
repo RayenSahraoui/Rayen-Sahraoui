@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rayen Sahraoui</h1>
-<h3 align="center">A passionate Data Science & Full Stack enthusiast from Tunisia</h3>
+<h3 align="center">A passionate Data Science & Full Stack enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+Data+Science+Student;Always+learning+new+things!" />
