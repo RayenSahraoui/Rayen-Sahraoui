@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Science & Full Stack enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Welcome+to+my+GitHub!%0AFull+Stack+Developer+%7C+Data+Science+Student%0AAlways+learning+new+things!" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+Data+Science+Student;Always+learning+new+things!" />
 </p>
 
 ---
